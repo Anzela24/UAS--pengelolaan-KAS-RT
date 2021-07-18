@@ -6,7 +6,7 @@
 
 
 2.	Tambilan database warga 
-3.	
+
  ![image](https://user-images.githubusercontent.com/56473376/126054629-c1aeb80f-9c5f-4c66-9264-f4b73b67d92f.png)
 
 
